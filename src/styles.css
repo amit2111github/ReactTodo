@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list {
+  margin-bottom: 10px 0px;
+}
+.cancelbutton {
+  margin-left: 20%;
+}
+
+.itemWrapper {
+  width: 50%;
+}
+
+.checkItem {
+  color: grey;
+  text-decoration: line-through;
+}
+
+.uncheckedItem {
+  color: black;
+  text-decoration: none;
+}
